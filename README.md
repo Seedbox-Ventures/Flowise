@@ -1,3 +1,9 @@
+# SBV Fork of Flowise Langchain UI
+
+Setup/ Deployed to GCP (see [GCP Console](https://console.cloud.google.com/kubernetes/clusters/details/europe-west3/seedbox-flowise-autopilot/details?project=seedbox-flowise)) using the offical [Flowise Docs for GCP Deployment](https://docs.flowiseai.com/deployment/gcp) (find an archived version [here](https://web.archive.org/web/20230605125339/https://docs.flowiseai.com/deployment/gcp)).
+
+---
+
 <!-- markdownlint-disable MD030 -->
 
 # Flowise - LangchainJS UI
